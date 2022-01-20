@@ -4,7 +4,11 @@
 
 2. Allow user to track BMI on weekly, daily, or monthly basis. 
    
-3. Tech Stack: MongoDB database 
+3. Tech Stack: 
+     - MongoDB database
+     - Chart for data visualization
+     - Mongo DB compass 
+
 
 4. Data Sources: 
       - User data in MongoDB database.
