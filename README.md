@@ -6,7 +6,7 @@
    
 3. Tech Stack: MongoDB database 
 
-4. Data Sources: User data in MongoDB database
+4. Data Sources: User data in MongoDB database.
                  Obesity rate datasets from different source in CSV Format
                
 5. Acceptance Criteria: 
